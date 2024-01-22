@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ir-faan/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://ir-faan.github.io/QR-Code-Component/)
+- Solution URL: [https://github.com/Ir-faan/QR-Code-Component]
+- Live Site URL: [https://ir-faan.github.io/QR-Code-Component/]
 
 ## My process
 
@@ -62,9 +62,9 @@ For further learning, i would like to start using keyframes to include animation
 
 ### Useful resources
 
-- [Example resource 1](https://www.overapi.com) - This site helped me to quickly look at the different properties of css i needed. It is a cheatsheet for a variety of technologies.
+- [https://www.overapi.com] - This site helped me to quickly look at the different properties of css i needed. It is a cheatsheet for a variety of technologies.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ir-faan)
+- Frontend Mentor - [ir-faan]
 
